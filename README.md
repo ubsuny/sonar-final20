@@ -1,3 +1,7 @@
 # Distance tracker
 
-Develop a distance tracking algorithm based on sonar data. For example from [phyphox](https://phyphox.org).
+- Record time dependent sonar data, for example from [phyphox](https://phyphox.org).
+See also Data Analysis project.
+- Simulate time dependent sonar data,
+- Develop a distance tracking algorithm based on the measured data and your simulation.
+
